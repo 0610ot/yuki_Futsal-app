@@ -1,0 +1,132 @@
+.signup-main{
+  background:image-url("soccer-1859046_480.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+  .signup-div{
+    .signup-form{
+      font-size:60px;
+      text-align: center;
+      padding-top:60px;
+      margin-bottom: 20px;
+      text-shadow: 4px 4px 4px #fff;
+    }
+    .signup-box{
+    background-color: rgba(11, 218, 56, 0.4);
+    width: 800px;
+    height: 580px;
+    margin: auto;
+    border-radius: 50px;
+      .form1{
+        padding-top: 40px;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-bottom: 40px;
+        #name{
+          background-image: url(name.svg);
+	        background-size: 30px 30px;
+	        background-position: 11px 12px;
+          background-repeat: no-repeat;
+      }
+        .name{
+          margin-bottom: 30px;
+        }
+        #email{
+        background-image: url(email.svg);
+        background-size: 30px 30px;
+        background-position: 11px 15px;
+        background-repeat: no-repeat;
+       }
+        .email{
+          margin-bottom: 30px;
+        }
+        #pass{
+        background-image: url(lock_24.svg);
+        background-size: 30px 30px;
+        background-position: 11px 15px;
+        background-repeat: no-repeat;
+        }
+        .pass{
+          margin-bottom: 30px;
+        }
+        #pass{
+        background-image: url(lock_24.svg);
+        background-size: 30px 30px;
+        background-position: 11px 15px;
+        background-repeat: no-repeat;
+        }
+        .pass{
+        margin-bottom: 30px;
+      }
+    }
+  }
+}
+.feedback-input {
+	color:#3c3c3c;
+	font-family: Helvetica, Arial, sans-serif;
+  font-weight:500;
+	font-size: 18px;
+	border-radius: 0;
+	line-height: 22px;
+	background-color: #fbfbfb;
+	padding: 20px 20px 20px 54px;
+	margin-bottom: 10px;
+	width:100%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+  border: 3px solid rgba(0,0,0,0);
+}
+
+#button-blue {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  float: left;
+  width: 100%;
+  border: #fbfbfb solid 4px;
+  cursor: pointer;
+  background-color: #3498db;
+  color: white;
+  font-size: 24px;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+  margin-top: -4px;
+  font-weight: 700;
+}
+input[type="submit" i] {
+  -webkit-appearance: push-button;
+  user-select: none;
+  white-space: pre;
+  align-items: flex-start;
+  text-align: center;
+  cursor: default;
+  color: buttontext;
+  background-color: buttonface;
+  box-sizing: border-box;
+  padding: 1px 7px 2px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(216, 216, 216) rgb(209, 209, 209) rgb(186, 186, 186);
+  border-image: initial;
+}
+
+#button-blue{
+	font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+	float:left;
+	width: 100%;
+	border: #fbfbfb solid 4px;
+	cursor:pointer;
+	background-color: #3498db;
+	color:white;
+	font-size:24px;
+	padding-top:22px;
+	padding-bottom:22px;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+  margin-top:-4px;
+  font-weight:700;
+}
